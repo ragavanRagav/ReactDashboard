@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ReactDashboard/static/js/main.ddd023d7.chunk.js",
+    "main.js.map": "/ReactDashboard/static/js/main.ddd023d7.chunk.js.map",
+    "runtime-main.js": "/ReactDashboard/static/js/runtime-main.13f8c81c.js",
+    "runtime-main.js.map": "/ReactDashboard/static/js/runtime-main.13f8c81c.js.map",
+    "static/css/2.847a128f.chunk.css": "/ReactDashboard/static/css/2.847a128f.chunk.css",
+    "static/js/2.9358ccfa.chunk.js": "/ReactDashboard/static/js/2.9358ccfa.chunk.js",
+    "static/js/2.9358ccfa.chunk.js.map": "/ReactDashboard/static/js/2.9358ccfa.chunk.js.map",
+    "index.html": "/ReactDashboard/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/ReactDashboard/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.9358ccfa.chunk.js.LICENSE.txt": "/ReactDashboard/static/js/2.9358ccfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13f8c81c.js",
+    "static/css/2.847a128f.chunk.css",
+    "static/js/2.9358ccfa.chunk.js",
+    "static/js/main.ddd023d7.chunk.js"
+  ]
+}
