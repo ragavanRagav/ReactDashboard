@@ -1,0 +1,167 @@
+export default [
+  {
+    No: 4,
+    Country: 'Austria',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 54.9,
+    EntrepreneurshipIndex: 64.9,
+    InflationRate: 0.9,
+    FemaleLaborForceParticipationRate: 67.1
+  },
+  {
+    No: 6,
+    Country: 'Belgium',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 63.6,
+    EntrepreneurshipIndex: 65.5,
+    InflationRate: 0.6,
+    FemaleLaborForceParticipationRate: 58
+  },
+  {
+    No: 17,
+    Country: 'Estonia',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 55.4,
+    EntrepreneurshipIndex: 60.2,
+    InflationRate: -0.88,
+    FemaleLaborForceParticipationRate: 68.5
+  },
+  {
+    No: 18,
+    Country: 'Finland',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 66.4,
+    EntrepreneurshipIndex: 65.7,
+    InflationRate: -0.2,
+    FemaleLaborForceParticipationRate: 67.7
+  },
+  {
+    No: 19,
+    Country: 'France',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 68.8,
+    EntrepreneurshipIndex: 67.3,
+    InflationRate: 0,
+    FemaleLaborForceParticipationRate: 60.6
+  },
+  {
+    No: 20,
+    Country: 'Germany',
+    LevelOfDevelopment: 'Developed',
+    EuropeanUnionMembership: 'Member',
+    Currency: 'Euro',
+    WomenEntrepreneurshipIndex: 63.6,
+    EntrepreneurshipIndex: 67.4,
+    InflationRate: 0.5,
+    FemaleLaborForceParticipationRate: 69.9
+  },
+  {
+    No: 38,
+    Country: 'Mexico',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 42.8,
+    EntrepreneurshipIndex: 30.7,
+    InflationRate: 2.7,
+    FemaleLaborForceParticipationRate: 44.7
+  },
+  {
+    No: 42,
+    Country: 'Panama',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 36.9,
+    EntrepreneurshipIndex: 32.2,
+    InflationRate: 0.1,
+    FemaleLaborForceParticipationRate: 67.9
+  },
+  {
+    No: 43,
+    Country: 'Peru',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 43.6,
+    EntrepreneurshipIndex: 30.9,
+    InflationRate: 3.5,
+    FemaleLaborForceParticipationRate: 63.4
+  },
+  {
+    No: 47,
+    Country: 'Russia',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 35.6,
+    EntrepreneurshipIndex: 31.7,
+    InflationRate: 15.5,
+    FemaleLaborForceParticipationRate: 65.2
+  },
+  {
+    No: 48,
+    Country: 'Saudi Arabia',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 37,
+    EntrepreneurshipIndex: 49.6,
+    InflationRate: 1.2,
+    FemaleLaborForceParticipationRate: 13
+  },
+  {
+    No: 57,
+    Country: 'Thailand',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 36.6,
+    EntrepreneurshipIndex: 32.1,
+    InflationRate: -0.9,
+    FemaleLaborForceParticipationRate: 62
+  },
+  {
+    No: 58,
+    Country: 'Tunisia',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 30.7,
+    EntrepreneurshipIndex: 35.5,
+    InflationRate: 4.8,
+    FemaleLaborForceParticipationRate: 25.19
+  },
+  {
+    No: 59,
+    Country: 'Turkey',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 39.3,
+    EntrepreneurshipIndex: 54.6,
+    InflationRate: 7.7,
+    FemaleLaborForceParticipationRate: 30.4
+  },
+  {
+    No: 60,
+    Country: 'Uruguay',
+    LevelOfDevelopment: 'Developing',
+    EuropeanUnionMembership: 'Not Member',
+    Currency: 'National Currency',
+    WomenEntrepreneurshipIndex: 44.5,
+    EntrepreneurshipIndex: 41.4,
+    InflationRate: 8.67,
+    FemaleLaborForceParticipationRate: 68
+  },
+];
